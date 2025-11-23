@@ -1,0 +1,11 @@
+Model Information:
+* title:	Steering Wheel Lowv Bombardier (Volante)
+* source:	https://sketchfab.com/3d-models/steering-wheel-lowv-bombardier-volante-2a19be58208c42da8b764ab24b739dc3
+* author:	Rodrigo Nunes 3D (https://sketchfab.com/rodrigonunes3d)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Steering Wheel Lowv Bombardier (Volante)" (https://sketchfab.com/3d-models/steering-wheel-lowv-bombardier-volante-2a19be58208c42da8b764ab24b739dc3) by Rodrigo Nunes 3D (https://sketchfab.com/rodrigonunes3d) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

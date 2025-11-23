@@ -1,0 +1,11 @@
+Model Information:
+* title:	Car Keys
+* source:	https://sketchfab.com/3d-models/car-keys-79813296615b475abbe4bb721114dd98
+* author:	Macovei Tudor (https://sketchfab.com/tudor_macovei)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Car Keys" (https://sketchfab.com/3d-models/car-keys-79813296615b475abbe4bb721114dd98) by Macovei Tudor (https://sketchfab.com/tudor_macovei) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

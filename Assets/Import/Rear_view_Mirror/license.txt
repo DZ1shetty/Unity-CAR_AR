@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rear_view Mirror
+* source:	https://sketchfab.com/3d-models/rear-view-mirror-72f3ac9e3ff5423f823841b3c801d0c1
+* author:	movemama (https://sketchfab.com/movemama)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rear_view Mirror" (https://sketchfab.com/3d-models/rear-view-mirror-72f3ac9e3ff5423f823841b3c801d0c1) by movemama (https://sketchfab.com/movemama) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

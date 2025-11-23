@@ -1,0 +1,11 @@
+Model Information:
+* title:	Accelerator Pedal
+* source:	https://sketchfab.com/3d-models/accelerator-pedal-872d97dc9af84065bc45cc8fad4e385a
+* author:	Mohsii (https://sketchfab.com/Mohsii)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Accelerator Pedal" (https://sketchfab.com/3d-models/accelerator-pedal-872d97dc9af84065bc45cc8fad4e385a) by Mohsii (https://sketchfab.com/Mohsii) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

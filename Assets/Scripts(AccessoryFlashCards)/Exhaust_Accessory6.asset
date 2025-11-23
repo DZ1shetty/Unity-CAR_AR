@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60e0c0c2ff830f409febb993e0359e2, type: 3}
+  m_Name: Exhaust_Accessory6
+  m_EditorClassIdentifier: 
+  accessoryName: Alfa Romeo 33 Stradale 1967 Signature Exhaust System
+  manufacturer: Autodelta (Alfa Romeo's racing division)
+  price: 9800
+  description: Handcrafted reproduction of the iconic exhaust system from the legendary
+    Alfa Romeo 33 Stradale
+  features: '- Hand-formed stainless steel construction with period-correct design
+
+    -
+    Distinctive twin-outlet configuration with polished trumpet finishers
+
+    -
+    Tuned specifically to reproduce the signature V8 soundtrack of the 33 Stradale
+
+    -
+    Free-flowing design with balanced back pressure for optimal performance
+
+    -
+    Ceramic-coated headers for thermal efficiency and durability
+
+
+
+'
+  accessoryImage: {fileID: 21300000, guid: cf7061003a233794c87a6b811a81b0ac, type: 3}

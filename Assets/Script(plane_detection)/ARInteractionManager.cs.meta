@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 26e9b8365eb87f04989adb9b714fddba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundDetectionController: {instanceID: 0}
+  - raycastManager: {instanceID: 0}
+  - arCamera: {instanceID: 0}
+  - bmwCarPrefab: {instanceID: 0}
+  - interactionModePanel: {instanceID: 0}
+  - continueWithInteractionButton: {instanceID: 0}
+  - detectAnotherPlaneButton: {instanceID: 0}
+  - steeringWheel: {instanceID: 0}
+  - steeringAudioSource: {instanceID: 0}
+  - steeringSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

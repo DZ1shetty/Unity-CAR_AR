@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60e0c0c2ff830f409febb993e0359e2, type: 3}
+  m_Name: AcceleratorPedal_Accessory3
+  m_EditorClassIdentifier: 
+  accessoryName: ' Alfa Romeo 33 Stradale 1967 Accelerator Pedal Assembly'
+  manufacturer: Alfa Romeo
+  price: 1450
+  description: 'Authentic reproduction of the classic floor-hinged throttle pedal
+    from the legendary Alfa Romeo '
+  features: '- Mechanical linkage with progressive resistance spring mechanism
+
+    -
+    Contoured footpad with subtle grooves for improved pedal feel
+
+    - Direct cable
+    connection to carburetors for authentic throttle response
+
+    - Hand-finished
+    brushed metal surface with clear protective coating
+
+    - Fully adjustable pedal
+    travel to match driver preference
+
+    - Includes mounting hardware reproduced
+    to original specifications'
+  accessoryImage: {fileID: 21300000, guid: 0a3b4c69985cc7d41a24da98e0173efe, type: 3}

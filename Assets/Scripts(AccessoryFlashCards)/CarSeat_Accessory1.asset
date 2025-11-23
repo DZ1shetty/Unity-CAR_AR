@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60e0c0c2ff830f409febb993e0359e2, type: 3}
+  m_Name: CarSeat_Accessory1
+  m_EditorClassIdentifier: 
+  accessoryName: Alfa Romeo 33 Stradale 1967 Classic Racing Seat
+  manufacturer: Alfa Romeo
+  price: 12500
+  description: Authentic reproduction of the iconic bucket seat from the legendary
+    Alfa Romeo 33 Stradale, featuring period-correct materials and craftsmanship
+    for the ultimate classic racing experience.
+  features: '- Hand-stitched black leather upholstery with perforated center sections
+    and classic Alfa Romeo shield embossing
+
+    - Lightweight aluminum shell construction
+    with tubular steel reinforcement frame typical of 1960s racing technology
+
+    -
+    Period-correct high side bolsters designed for the 33 Stradale''s racing heritage
+    and aggressive cornering capabilities
+
+    - Vintage-style 4-point harness mounting
+    points with original Alfa Romeo buckle design and red accent stitching'
+  accessoryImage: {fileID: 21300000, guid: d1e0cf2a9691bda439f4cbfcbce1cdc5, type: 3}

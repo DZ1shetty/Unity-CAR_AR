@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 public class AutoSceneChanger : MonoBehaviour
 {
     public float delay = 5f; // Time in seconds before changing scene
-    public string nextSceneName; // Name of the scene to load
+    public string nextSceneName; // Name of the scene to be loaded
 
     void Start()
     {
